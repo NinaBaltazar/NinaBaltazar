@@ -1,7 +1,7 @@
 ### 👋 Hi, i´m Nina Baltazar !
 👩🏻‍💻 Majoring Computer Science sharing about my journey and learnings in tech.<br/>
 🌷 #learninginpublic in my digital garden.<br/>
-💭 Currently learning about android development and Devops!<br/>
+💭 Currently learning about Devops!<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NinaBaltazar&theme=jolly&showicons=true)
 
